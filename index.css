@@ -4,7 +4,7 @@
 
     border:2px solid black;
 }
-button.hover{
+button:hover{
     color:blue;
 }
 h1{
