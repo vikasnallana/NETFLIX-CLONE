@@ -5,10 +5,9 @@ A responsive Netflix clone built using HTML and CSS.
 
 Demo
 
-[Live Demo](link to your live demo)
+https://github.com/user-attachments/assets/f2720c9c-b58e-43af-b5bd-d4e3f992d738
 
 Features
-
 - Responsive design for various screen sizes and devices
 - Replicates the original Netflix homepage layout and design
 - Built using HTML and CSS
