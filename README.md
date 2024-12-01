@@ -1,4 +1,3 @@
-
 NETFLIX CLONE
 
 A responsive Netflix clone built using HTML and CSS.
