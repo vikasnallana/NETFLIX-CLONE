@@ -322,4 +322,8 @@ hr {
     label::after {
         font-size: 22px
     }
+    .email-signup Button{
+        font-size: 12px;
+        padding: 5px;
+    }
 }
