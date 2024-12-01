@@ -90,7 +90,7 @@ max-width: 650px;
     height: 33px;
     border-radius: 5px;
     font-size: 16px;
-    color: white;
+    color: black;
     padding: 5px;
     background-color: white;
 
@@ -210,3 +210,60 @@ input[type="radio"]{
 .faq small {
     font-size: 13px;
 }
+/*-------------footer--------------*/
+.footer {
+    background-color: #000;
+    padding: 30px 50px;
+}
+.footer .call {
+    font-size: 16px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.footer .call a{
+    margin-left: 3px;
+    font-size: 16px;
+}
+.footer .links-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+.footer .links {
+    flex: 1 1 200px;
+}
+.footer a {
+    color: #999;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: block;
+}
+.footer a:hover {
+    color: #fff;
+}
+.footer .language {
+    margin-top: 20px;
+}
+.footer .language select {
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #333;
+    padding: 5px;
+}
+.footer .footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+    text-align: left;
+}
+hr {
+    border: 1px solid rgba(118, 115, 115, 0.479);
+}
+
+
+/*----------media queries------------*/
