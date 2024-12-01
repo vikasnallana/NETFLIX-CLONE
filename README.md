@@ -1,6 +1,5 @@
-Here's a sample README content for your responsive Netflix clone:
 
-Netflix Clone
+NETFLIX CLONE
 
 A responsive Netflix clone built using HTML and CSS.
 
